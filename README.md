@@ -6,10 +6,6 @@ With the Pages feature enabled, you can host your own Helm charts within it, the
 
 ![Helm](./doc/HelmKubernetesDistro.png)
 
-The custom ```cloudacademy-webapp``` Helm chart when installed creates the following cluster resources:
-
-![CloudAcademyWebapp](./doc/HelmTemplate1.png)
-
 :metal:
 
 # STEP 1:
